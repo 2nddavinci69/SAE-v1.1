@@ -12,9 +12,9 @@ Sovereign AI Execution (SAE-v1.1) is an implementation-oriented Open Reference S
 ### Licensing
 This project utilizes a dual licensing model:
 
-* **Documentation: All technical specifications, architecture guides, and instructional materials are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+* ** Documentation: All technical specifications, architecture guides, and instructional materials are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-* **Software: All reference implementations, SDKs, APIs, and conformance tools are licensed under the Apache License 2.0.
+* ** Software: All reference implementations, SDKs, APIs, and conformance tools are licensed under the Apache License 2.0.
 
 ### Compliance
 This repository maintains the stable release SAE-v1.1, adhering to all normative requirements defined in the reference standard documentation.
